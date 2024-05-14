@@ -1,0 +1,570 @@
+[{
+    "id": "1",
+    "chef_name": "Joel Robuchon",
+    "experience": 33,
+    "number_of_receipe":3,
+    "likes": 20,
+    "ratings": 32,
+    "bio":"Introducing Joël Robuchon – the chef with the most Michelin stars. He holds the number one spot among the top 10 chefs in the world, which makes him the best chef in the world according to the Michelin star rating. Although he died with “only” 28 stars, at one point, Robuchon was the proud owner of 32. He was also named “Chef of the Century” on numerous occasions.",
+    "img": "https://www.boneta.ca/wp-content/uploads/2018/08/Joel-Robuchon.jpg",
+    "recepie_info": [
+        {
+            "r_name": "Thai Green Curry Chicken",
+            "r_id":"1",
+            "ingredients": [
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika",
+                "1/2 tsp cayenne pepper",
+                "1 cup coconut milk",
+                "1 cup chicken broth",
+                "1 tbsp tomato paste",
+                "2 tbsp vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.8,
+            "favorite": false
+        },
+        {
+            "r_name": "Massaman Curry",
+            "r_id":"2",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1/2 tsp cayenne pepper",
+                "1 cup coconut milk",
+                "1 cup chicken broth",
+                "1 tbsp tomato paste",
+                "2 tbsp vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.5,
+            "favorite": false
+        },{
+            "r_name": "Tom Yum Goong",
+            "r_id":"3",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1 tbsp grated ginger",
+                "1 tbsp curry powder",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.0,
+            "favorite": false
+        }
+]
+},
+{
+    "id": "2",
+    "chef_name": "Alain Ducasse",
+    "experience": 29,
+    "number_of_receipe": 4,
+    "likes": 15,
+    "ratings": 32,
+    "bio":"Alain Ducasse was born in France and, quite logically, he is famous for delivering the most delicious meals from French cuisine. Of all the best chefs in the world, only Ducasse’s meals were eaten in outer space. Yeah, in 2015, Ducasse’s food was served to astronauts in the ISS.",
+    "img": "https://www.boneta.ca/wp-content/uploads/2018/08/Alain-Ducasse.jpg",
+    "recepie_info": [
+        {
+            "r_name": "Thai Green Curry Chicken",
+            "r_id":"1",
+            "ingredients": [
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika",
+                "1/2 tsp cayenne pepper",
+                "1 cup coconut milk",
+                "1 cup chicken broth",
+                "1 tbsp tomato paste",
+                "2 tbsp vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.7,
+            "favorite": false
+        },
+        {
+            "r_name": "Massaman Curry",
+            "r_id":"2",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1/2 tsp cayenne pepper",
+                "1 cup coconut milk",
+                "1 cup chicken broth",
+                "1 tbsp tomato paste",
+                "2 tbsp vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.0,
+            "favorite": false
+        },{
+            "r_name": "Tom Yum Goong",
+            "r_id":"3",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1 tbsp grated ginger",
+                "1 tbsp curry powder",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 3.5,
+            "favorite": false
+        },
+        {
+            "r_name": "Spicy Chicken Curry",
+            "r_id":"4",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1 tbsp grated ginger",
+                "1 tbsp curry powder",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 5.0,
+            "favorite": false
+        }
+]
+},{
+    "id": "3",
+    "chef_name": "Gordon Ramsay",
+    "experience": 33,
+    "number_of_receipe": 3,
+    "likes": 13,
+    "ratings": 30,
+    "bio":"Gordon Ramsay may be the most familiar face to the general public thanks to his exposure on TV. He has a famously hot temper and the ability to cook the most delicious recipes from British cuisine. Ramsay has 16 stars in his Michelin constellation.",
+    "img": "https://www.boneta.ca/wp-content/uploads/2018/08/Gordon-Ramsay.jpg",
+    "recepie_info": [
+        {
+            "r_name": "Thai Green Curry Chicken",
+            "r_id":"1",
+            "ingredients": [
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika",
+                "1/2 tsp cayenne pepper",
+                "1 cup coconut milk",
+                "1 cup chicken broth",
+                "1 tbsp tomato paste",
+                "2 tbsp vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.1,
+            "favorite": false
+        },
+        {
+            "r_name": "Massaman Curry",
+            "r_id":"2",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1/2 tsp cayenne pepper",
+                "1 cup coconut milk",
+                "1 cup chicken broth",
+                "1 tbsp tomato paste",
+                "2 tbsp vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.5,
+            "favorite": false
+        },{
+            "r_name": "Tom Yum Goong",
+            "r_id":"3",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1 tbsp grated ginger",
+                "1 tbsp curry powder",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.8,
+            "favorite": false
+        }
+]
+},{
+    "id": "4",
+    "chef_name": "Pierre Gagnaire",
+    "experience": 25,
+    "number_of_receipe": 3,
+    "likes": 12,
+    "ratings": 32,
+    "bio":"Pierre Gagnaire is one of the chefs who has devoted his life in part to winning Michelin stars. That’s not surprising! After all, he spent his entire childhood in his family’s kitchen, which also held such an award. So at the age of 26, he has already received his first Michelin star.",
+    "img": "https://www.boneta.ca/wp-content/uploads/2021/07/Pierre-Gagnaire.jpg",
+    "recepie_info": [
+        {
+            "r_name": "Thai Green Curry Chicken",
+            "r_id":"1",
+            "ingredients": [
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika",
+                "1/2 tsp cayenne pepper",
+                "1 cup coconut milk",
+                "1 cup chicken broth",
+                "1 tbsp tomato paste",
+                "2 tbsp vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.0,
+            "favorite": false
+        },
+        {
+            "r_name": "Massaman Curry",
+            "r_id":"2",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1/2 tsp cayenne pepper",
+                "1 cup coconut milk",
+                "1 cup chicken broth",
+                "1 tbsp tomato paste",
+                "2 tbsp vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.5,
+            "favorite": false
+        },{
+            "r_name": "Tom Yum Goong",
+            "r_id":"3",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1 tbsp grated ginger",
+                "1 tbsp curry powder",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 3.5,
+            "favorite": false
+        }
+]
+},{
+    "id": "5",
+    "chef_name": "Martin Berasategui",
+    "experience": 23,
+    "number_of_receipe": 3,
+    "likes": 11,
+    "ratings": 32,
+    "bio":"So far, Martin has collected 12 Michelin stars, which makes him the best Spanish chef in the world. Among 10 restaurants that he owns, two are triple Michelin starred hotels. One of them is the famous Restaurante Martin Berasategui.",
+    "img": "https://www.boneta.ca/wp-content/uploads/2018/08/Martin-Berasategui.jpg",
+    "recepie_info": [
+        {
+            "r_name": "Thai Green Curry Chicken",
+            "r_id":"1",
+            "ingredients": [
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika",
+                "1/2 tsp cayenne pepper",
+                "1 cup coconut milk",
+                "1 cup chicken broth",
+                "1 tbsp tomato paste",
+                "2 tbsp vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.1,
+            "favorite": false
+        },
+        {
+            "r_name": "Massaman Curry",
+            "r_id":"2",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1/2 tsp cayenne pepper",
+                "1 cup coconut milk",
+                "1 cup chicken broth",
+                "1 tbsp tomato paste",
+                "2 tbsp vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.9,
+            "favorite": false
+        },{
+            "r_name": "Tom Yum Goong",
+            "r_id":"3",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1 tbsp grated ginger",
+                "1 tbsp curry powder",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 5.0,
+            "favorite": false
+        }
+]
+},{
+    "id": "6",
+    "chef_name": "Yannick Alleno",
+    "experience": 30,
+    "number_of_receipe": 3,
+    "likes": 9,
+    "ratings": 40,
+    "bio":"Yannick Alléno is a renowned French chef who runs one of the oldest restaurants in Paris, Pavillon Ledoyen. If we talk about the total number of restaurants, Yannick Alléno has 18 of them. Yet, in all that time, the chef could get 10 Michelin Stars, which makes him the fifth in our list of great chefs.",
+    "img": "https://www.boneta.ca/wp-content/uploads/2018/08/Joel-Robuchon.jpg",
+    "recepie_info": [
+        {
+            "r_name": "Thai Green Curry Chicken",
+            "r_id":"1",
+            "ingredients": [
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika",
+                "1/2 tsp cayenne pepper",
+                "1 cup coconut milk",
+                "1 cup chicken broth",
+                "1 tbsp tomato paste",
+                "2 tbsp vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 5.0,
+            "favorite": false
+        },
+        {
+            "r_name": "Massaman Curry",
+            "r_id":"2",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1/2 tsp cayenne pepper",
+                "1 cup coconut milk",
+                "1 cup chicken broth",
+                "1 tbsp tomato paste",
+                "2 tbsp vegetable oil",
+                "Salt and pepper to taste"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.5,
+            "favorite": false
+        },{
+            "r_name": "Tom Yum Goong",
+            "r_id":"3",
+            "ingredients": [
+                "4 chicken breasts",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1 tbsp grated ginger",
+                "1 tbsp curry powder",
+                "1 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp paprika"
+            ],
+            "method": [
+                "Heat the oil in a large saucepan over medium-high heat.",
+                "Add the onion and cook until soft, about 5 minutes.",
+                "Add the garlic and ginger and cook for another 2 minutes.",
+                "Add the chicken and cook until browned on all sides, about 5 minutes.",
+                "Stir in the curry powder, cumin, coriander, paprika, and cayenne pepper.",
+                "Add the coconut milk, chicken broth, and tomato paste, and bring to a simmer.",
+                "Reduce heat to low, cover, and simmer for 20-25 minutes or until chicken is cooked through.",
+                "Season with salt and pepper to taste."
+            ],
+            "rating": 4.1,
+            "favorite": false
+        }
+]
+}
+]
+
